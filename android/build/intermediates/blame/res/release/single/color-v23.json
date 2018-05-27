@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/jmsul/Projects/react-native/react-native-zebra-link/Example/node_modules/react-native-zebra-link/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/jmsul/Projects/react-native/react-native-zebra-link/Example/node_modules/react-native-zebra-link/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/jmsul/Projects/react-native/github/react-native-zebra-link/ZebraExample/node_modules/react-native-zebra-link/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/jmsul/Projects/react-native/github/react-native-zebra-link/ZebraExample/node_modules/react-native-zebra-link/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

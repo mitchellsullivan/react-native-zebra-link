@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jmsul/Projects/react-native/react-native-zebra-link/Example/node_modules/react-native-zebra-link/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/Users/jmsul/Projects/react-native/github/react-native-zebra-link/ZebraExample/node_modules/react-native-zebra-link/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/jmsul/Projects/react-native/react-native-zebra-link/Example/node_modules/react-native-zebra-link/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "file": "/Users/jmsul/Projects/react-native/github/react-native-zebra-link/ZebraExample/node_modules/react-native-zebra-link/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-xlarge-land/values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
