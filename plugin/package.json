@@ -1,0 +1,13 @@
+{
+  "name": "react-native-zebra-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/mitchellsullivan/react-native-zebra-link.git",
+  "summary": "test plugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

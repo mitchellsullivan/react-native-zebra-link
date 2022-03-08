@@ -1,0 +1,5 @@
+rootProject.name = 'example2'
+include ':react-native-zebra-link'
+project(':react-native-zebra-link').projectDir = new File(rootProject.projectDir, '../../plugin/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
